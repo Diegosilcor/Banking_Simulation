@@ -1,0 +1,29 @@
+Realizados los CRUDs para las tres entidades (cliente, cuenta y movimiento).
+
+Testeados los endpoints expuestos en la colección Postman.
+
+-----
+
+Sin embargo, como lógica de negocio, las request y los métodos fundamentales son:
+
+*** Para admnisitrar clientes ***
+
+Create Cliente
+Get Cliente
+Update Cliente
+Delete Cliente
+Update Cliente Partially
+
+*** Para administrar cuenta ***
+
+Create Cliente's Cuenta
+Get Cuenta
+Update Cuenta
+Update Cuenta Partially
+Delete Cuenta
+
+*** Para administrar movimientos ***
+
+Create Cuenta's Movimiento
+Get Movimiento
+Get Reporte

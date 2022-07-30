@@ -1,0 +1,11 @@
+package com.devsus.challenge.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/reportes")
+public class ReporteController {
+
+
+}
